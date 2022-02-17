@@ -1,0 +1,6 @@
+module Pods_TvMazeApp_TvMazeAppTests {
+  umbrella header "Pods-TvMazeApp-TvMazeAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

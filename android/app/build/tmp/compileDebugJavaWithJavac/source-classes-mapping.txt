@@ -1,0 +1,14 @@
+com/tvmazeapp/ReactNativeFlipper.java
+ com.tvmazeapp.ReactNativeFlipper
+ com.tvmazeapp.ReactNativeFlipper$1
+ com.tvmazeapp.ReactNativeFlipper$2
+ com.tvmazeapp.ReactNativeFlipper$2$1
+com/tvmazeapp/BuildConfig.java
+ com.tvmazeapp.BuildConfig
+com/tvmazeapp/MainActivity.java
+ com.tvmazeapp.MainActivity
+com/tvmazeapp/MainApplication.java
+ com.tvmazeapp.MainApplication
+ com.tvmazeapp.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
